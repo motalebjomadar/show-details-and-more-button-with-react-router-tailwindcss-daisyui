@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1,
+        "category": "Software Development",
+        "position": "Software Engineer",
+        "description": "Develop and maintain software applications.",
+        "experience": "3-5 years",
+        "salary": "$80,000 - $100,000",
+        "education": "Bachelor's Degree in Computer Science or related field"
+    },
+    {
+        "id": 2,
+        "category": "Marketing",
+        "position": "Marketing Manager",
+        "description": "Oversee marketing campaigns and strategies.",
+        "experience": "5-7 years",
+        "salary": "$70,000 - $90,000",
+        "education": "Bachelor's Degree in Marketing or related field"
+    },
+    {
+        "id": 3,
+        "category": "Finance",
+        "position": "Financial Analyst",
+        "description": "Analyze financial data and provide insights.",
+        "experience": "2-4 years",
+        "salary": "$60,000 - $80,000",
+        "education": "Bachelor's Degree in Finance or related field"
+    },
+    {
+        "id": 4,
+        "category": "Human Resources",
+        "position": "HR Manager",
+        "description": "Manage HR functions and employee relations.",
+        "experience": "4-6 years",
+        "salary": "$65,000 - $85,000",
+        "education": "Bachelor's Degree in Human Resources or related field"
+    },
+    {
+        "id": 5,
+        "category": "Customer Service",
+        "position": "Customer Service Representative",
+        "description": "Assist customers with inquiries and issues.",
+        "experience": "1-3 years",
+        "salary": "$40,000 - $50,000",
+        "education": "High School Diploma or equivalent"
+    },
+    {
+        "id": 6,
+        "category": "Sales",
+        "position": "Sales Executive",
+        "description": "Drive sales and manage client relationships.",
+        "experience": "3-5 years",
+        "salary": "$55,000 - $75,000",
+        "education": "Bachelor's Degree in Business or related field"
+    },
+    {
+        "id": 7,
+        "category": "IT",
+        "position": "Network Administrator",
+        "description": "Maintain and troubleshoot network systems.",
+        "experience": "3-5 years",
+        "salary": "$70,000 - $90,000",
+        "education": "Bachelor's Degree in Information Technology or related field"
+    },
+    {
+        "id": 8,
+        "category": "Education",
+        "position": "Teacher",
+        "description": "Teach and guide students in a classroom setting.",
+        "experience": "2-4 years",
+        "salary": "$50,000 - $70,000",
+        "education": "Bachelor's Degree in Education or related field"
+    },
+    {
+        "id": 9,
+        "category": "Healthcare",
+        "position": "Registered Nurse",
+        "description": "Provide patient care and support.",
+        "experience": "3-5 years",
+        "salary": "$60,000 - $80,000",
+        "education": "Bachelor's Degree in Nursing"
+    },
+    {
+        "id": 10,
+        "category": "Engineering",
+        "position": "Mechanical Engineer",
+        "description": "Design and develop mechanical systems.",
+        "experience": "4-6 years",
+        "salary": "$75,000 - $95,000",
+        "education": "Bachelor's Degree in Mechanical Engineering"
+    },
+    {
+        "id": 11,
+        "category": "Administration",
+        "position": "Office Administrator",
+        "description": "Manage office operations and administrative tasks.",
+        "experience": "2-4 years",
+        "salary": "$45,000 - $55,000",
+        "education": "Associate's Degree in Business Administration or related field"
+    },
+    {
+        "id": 12,
+        "category": "Logistics",
+        "position": "Logistics Coordinator",
+        "description": "Coordinate and oversee logistics operations.",
+        "experience": "3-5 years",
+        "salary": "$55,000 - $75,000",
+        "education": "Bachelor's Degree in Logistics or related field"
+    },
+    {
+        "id": 13,
+        "category": "Design",
+        "position": "Graphic Designer",
+        "description": "Create visual content for various media.",
+        "experience": "2-4 years",
+        "salary": "$50,000 - $65,000",
+        "education": "Bachelor's Degree in Graphic Design or related field"
+    },
+    {
+        "id": 14,
+        "category": "Legal",
+        "position": "Lawyer",
+        "description": "Provide legal advice and representation.",
+        "experience": "5-7 years",
+        "salary": "$90,000 - $120,000",
+        "education": "Juris Doctor (JD) degree"
+    },
+    {
+        "id": 15,
+        "category": "Research",
+        "position": "Research Scientist",
+        "description": "Conduct research and experiments in a specific field.",
+        "experience": "3-5 years",
+        "salary": "$70,000 - $90,000",
+        "education": "PhD in a related field"
+    },
+    {
+        "id": 16,
+        "category": "Real Estate",
+        "position": "Real Estate Agent",
+        "description": "Assist clients in buying and selling properties.",
+        "experience": "2-4 years",
+        "salary": "$50,000 - $70,000",
+        "education": "Real Estate License"
+    },
+    {
+        "id": 17,
+        "category": "Construction",
+        "position": "Project Manager",
+        "description": "Oversee construction projects from start to finish.",
+        "experience": "5-7 years",
+        "salary": "$80,000 - $100,000",
+        "education": "Bachelor's Degree in Construction Management or related field"
+    },
+    {
+        "id": 18,
+        "category": "Media",
+        "position": "Journalist",
+        "description": "Report on news and current events.",
+        "experience": "3-5 years",
+        "salary": "$50,000 - $70,000",
+        "education": "Bachelor's Degree in Journalism or related field"
+    },
+    {
+        "id": 19,
+        "category": "Public Relations",
+        "position": "PR Specialist",
+        "description": "Manage public image and communications.",
+        "experience": "4-6 years",
+        "salary": "$60,000 - $80,000",
+        "education": "Bachelor's Degree in Public Relations or related field"
+    },
+    {
+        "id": 20,
+        "category": "Hospitality",
+        "position": "Hotel Manager",
+        "description": "Oversee hotel operations and staff.",
+        "experience": "5-7 years",
+        "salary": "$70,000 - $90,000",
+        "education": "Bachelor's Degree in Hospitality Management or related field"
+    },
+    {
+        "id": 21,
+        "category": "Aerospace",
+        "position": "Aerospace Engineer",
+        "description": "Design and test aircraft and spacecraft.",
+        "experience": "5-7 years",
+        "salary": "$90,000 - $120,000",
+        "education": "Bachelor's Degree in Aerospace Engineering"
+    },
+    {
+        "id": 22,
+        "category": "Pharmaceutical",
+        "position": "Pharmacist",
+        "description": "Dispense medications and advise patients.",
+        "experience": "3-5 years",
+        "salary": "$100,000 - $130,000",
+        "education": "Doctor of Pharmacy (PharmD) degree"
+    },
+    {
+        "id": 23,
+        "category": "Retail",
+        "position": "Store Manager",
+        "description": "Manage store operations and staff.",
+        "experience": "4-6 years",
+        "salary": "$55,000 - $75,000",
+        "education": "Bachelor's Degree in Business or related field"
+    },
+    {
+        "id": 24,
+        "category": "Art",
+        "position": "Art Director",
+        "description": "Lead the creative direction for projects.",
+        "experience": "5-7 years",
+        "salary": "$70,000 - $90,000",
+        "education": "Bachelor's Degree in Fine Arts or related field"
+    },
+    {
+        "id": 25,
+        "category": "Education",
+        "position": "School Principal",
+        "description": "Oversee school operations and administration.",
+        "experience": "6-8 years",
+        "salary": "$90,000 - $110,000",
+        "education": "Master's Degree in Education Administration"
+    }
+]
